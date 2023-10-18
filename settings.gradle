@@ -1,3 +1,4 @@
 rootProject.name = 'circuit-breaker-pattern'
 include 'address-service'
+include 'order-service'
 
